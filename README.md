@@ -1,51 +1,30 @@
-<!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hyago%20D%27%20Silva&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Back-end%20Developer%20%7C%20Data%20Analytics&descSize=18&descAlignY=55&textBg=false" alt="Hyago D' Silva - Back-end Developer | Data Analytics" width="100%"/>
+# Hyago D' Silva
 
-<p align="center">
-  <a href="https://github.com/HyagoSnts">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&height=40&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+Back-end+e+An%C3%A1lise+de+Dados;SQL+%7C+Python+%7C+Java+%7C+C" alt="Typing SVG"/>
-  </a>
-</p>
+**Desenvolvedor Back-end & Análise de Dados** · SUA-CIDADE, Brasil
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=HyagoSnts">
-    <img src="https://komarev.com/ghpvc/?username=HyagoSnts&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views"/>
-  </a>
-</p>
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end e interesse em análise de dados. Aprendo construindo projetos com Python, SQL e Java.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/7silvarz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/7silvarz/)
 
 ---
 
-## 👨‍💻 Sobre mim
+### Sobre
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento back-end** e interesse em **análise de dados**.
+- Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento back-end** e interesse em **análise de dados**.
+- Trabalhando com **SQL e MySQL** e estudando **Java**.
+- Desenvolvendo projetos com **Python**.
+- Praticando **C, lógica de programação e estruturas de dados**.
 
-- 🗄️ Trabalhando com **SQL e MySQL**
-- ☕ Estudando **Java**
-- 🐍 Desenvolvendo projetos com **Python**
-- 🔵 Praticando **C, lógica de programação e estruturas de dados**
-
----
-
-## 🚀 Projetos em destaque
+### Meus projetos
 
 | Projeto | O que faz | Tecnologias |
 |---|---|---|
-| [**nome-do-projeto-1**](https://github.com/HyagoSnts/SEU-REPO-1) | Descreva em uma frase o que o projeto resolve. | Python, MySQL |
-| [**nome-do-projeto-2**](https://github.com/HyagoSnts/SEU-REPO-2) | Descreva em uma frase o que o projeto resolve. | Java |
-| [**nome-do-projeto-3**](https://github.com/HyagoSnts/SEU-REPO-3) | Descreva em uma frase o que o projeto resolve. | JavaScript, React |
+| [**nome-do-projeto-1**](https://github.com/HyagoSnts/SEU-REPO-1) | Descreva em uma ou duas frases o que o projeto resolve. | Python, MySQL |
+| [**nome-do-projeto-2**](https://github.com/HyagoSnts/SEU-REPO-2) | Descreva em uma ou duas frases o que o projeto resolve. | Java |
+| [**nome-do-projeto-3**](https://github.com/HyagoSnts/SEU-REPO-3) | Descreva em uma ou duas frases o que o projeto resolve. | JavaScript, React |
 
----
-
-## 🛠️ Tecnologias
+### Tech Stack
 
 **Linguagens**
 
@@ -68,28 +47,12 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolv
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
+### Atualmente
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HyagoSnts&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=7200" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HyagoSnts&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&cache_seconds=7200" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/HyagoSnts" alt="Contribuições de HyagoSnts" width="100%"/>
-</p>
-
----
-
-## 🎯 Atualmente
-
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 📚 Aprofundando em Java, SQL e MySQL
-- 🛠️ Construindo projetos em Python e praticando estruturas de dados em C
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20,29&section=footer" alt="" width="100%"/>
+- Cursando Análise e Desenvolvimento de Sistemas.
+- Aprofundando em Java, SQL e MySQL.
+- Construindo projetos em Python e praticando estruturas de dados em C.
