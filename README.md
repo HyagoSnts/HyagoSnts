@@ -49,8 +49,3 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end e inte
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Atualmente
-
-- Cursando Análise e Desenvolvimento de Sistemas.
-- Aprofundando em Java, SQL e MySQL.
-- Construindo projetos em Python e praticando estruturas de dados em C.
