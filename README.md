@@ -1,6 +1,6 @@
 # Hyago D' Silva
 
-**Desenvolvedor Back-end & Análise de Dados** · SUA-CIDADE, Brasil
+**Desenvolvedor Back-end & Análise de Dados** · Santana de Parnaiba, São Paulo.
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end e interesse em análise de dados. Aprendo construindo projetos com Python, SQL e Java.
 
@@ -12,9 +12,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end e inte
 ### Sobre
 
 - Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento back-end** e interesse em **análise de dados**.
-- Trabalhando com **SQL e MySQL** e estudando **Java**.
-- Desenvolvendo projetos com **Python**.
-- Praticando **C, lógica de programação e estruturas de dados**.
+- Trabalhando com **MySQL**,  **C**, **Python**, **Java** e **Javascript**.
 
 ### Meus projetos
 
